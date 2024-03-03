@@ -1,13 +1,15 @@
 
+import Layout from "./Layout.jsx"
 import Nav from "./components/Nav.jsx"
 export default function App() {
   
 
   return (
-    <>
-    <Nav/>
-   <h1 className="bg-green-600 p-4 "> 
-   </h1>
+    <> 
+    <h1>
+      Hii this is existing page 
+    </h1>
+  
     </>
   )
 }
